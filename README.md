@@ -11,3 +11,7 @@ a girl is holding a flower and talking to someone, in the style of hauntingly be
 a girl in a blue top leaning against a pool, in the style of chinapunk, detailed facial features, light pink and dark amber, sharp focus, dolly kei, light white and light red, double tone effect --ar 4:5
 
 ![](images/chazprogibator6_a_girl_in_a_blue_top_leaning_against_a_pool_in__f0b215e1-f036-427d-8bc4-37ca09977566.png)
+
+wallpaper of a young man with blindfold on a yellow background, in the style of shige's visual aesthetic style, light pink and dark gray, lit kid, genderless, trick of the eye paintings, gongbi, honest portrayal
+
+![](images/nuxwaideqoj1_wallpaper_of_a_young_man_with_blindfold_on_a_yello_b05c660b-5e9c-4d11-af9e-eae5813fe5fe.png)
