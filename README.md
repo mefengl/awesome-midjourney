@@ -23,3 +23,7 @@ japan calendar widget'saikoho 0 8 12, in the style of romantic soft focus and et
 in the midst of winter found there was w, in the style of minimalist illustrator, humor meets heart, luminous sfumato, colored cartoon style, white and orange, whimsical children's book illustrator, gentle lyricism
 
 ![](images/chazprogibator6_in_the_midst_of_winter_found_there_was_w_in_the_fc97bf2d-1a42-453a-b624-81872899f38e.png)
+
+a guy looks up at a balloon in the snow, in the style of simplistic cartoon, dark white and orange, cute and dreamy, gray, avian-themed, sparse backgrounds, absurd doodle
+
+![](images/chazprogibator6_a_guy_looks_up_at_a_balloon_in_the_snow_in_the__2b6213f3-ab88-45a7-96fe-55cdf3841186.png)
