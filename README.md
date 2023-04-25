@@ -19,3 +19,7 @@ wallpaper of a young man with blindfold on a yellow background, in the style of 
 japan calendar widget'saikoho 0 8 12, in the style of romantic soft focus and ethereal light, studyplace, xu bing, digital as manual, use of precious materials, airy and light, happenings --ar 93:166
 
 ![](images/nuxwaideqoj1_japan_calendar_widgetsaikoho_0_8_12_in_the_style_o_744babcf-6466-43b5-845a-9e795be9474b.png)
+
+in the midst of winter found there was w, in the style of minimalist illustrator, humor meets heart, luminous sfumato, colored cartoon style, white and orange, whimsical children's book illustrator, gentle lyricism
+
+![](images/chazprogibator6_in_the_midst_of_winter_found_there_was_w_in_the_fc97bf2d-1a42-453a-b624-81872899f38e.png)
