@@ -31,3 +31,7 @@ a guy looks up at a balloon in the snow, in the style of simplistic cartoon, dar
 lofi retro art of a planet, matte paper background --ar 9:19
 
 ![](images/nuxwaideqoj1_lofi_retro_art_of_a_planet_matte_paper_background_79c99579-ebbb-4878-847d-21e75ad39f6f.png)
+
+a girl in green and white clothing is flying between two green leaves, in the style of anime-inspired character designs, intricate embellishments, light white and light bronze, bold coloration, knightcore, loose and fluid, stone --ar 35:43
+
+![](images/nuxwaideqoj1_a_girl_in_green_and_white_clothing_is_flying_betwe_60dbda64-527c-4e83-b9f7-7b84ca152c9d.webp)
