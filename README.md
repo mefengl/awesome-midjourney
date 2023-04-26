@@ -27,3 +27,7 @@ in the midst of winter found there was w, in the style of minimalist illustrator
 a guy looks up at a balloon in the snow, in the style of simplistic cartoon, dark white and orange, cute and dreamy, gray, avian-themed, sparse backgrounds, absurd doodle
 
 ![](images/chazprogibator6_a_guy_looks_up_at_a_balloon_in_the_snow_in_the__2b6213f3-ab88-45a7-96fe-55cdf3841186.png)
+
+lofi retro art of a planet, matte paper background --ar 9:19
+
+![](images/nuxwaideqoj1_lofi_retro_art_of_a_planet_matte_paper_background_79c99579-ebbb-4878-847d-21e75ad39f6f.png)
