@@ -35,3 +35,7 @@ lofi retro art of a planet, matte paper background --ar 9:19
 a girl in green and white clothing is flying between two green leaves, in the style of anime-inspired character designs, intricate embellishments, light white and light bronze, bold coloration, knightcore, loose and fluid, stone --ar 35:43
 
 ![](images/nuxwaideqoj1_a_girl_in_green_and_white_clothing_is_flying_betwe_60dbda64-527c-4e83-b9f7-7b84ca152c9d.webp)
+
+## Links
+
+Logo: https://wgmimedia.com/midjourney-logo-prompts/
