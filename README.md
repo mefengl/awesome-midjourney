@@ -36,6 +36,10 @@ a girl in green and white clothing is flying between two green leaves, in the st
 
 ![](images/nuxwaideqoj1_a_girl_in_green_and_white_clothing_is_flying_betwe_60dbda64-527c-4e83-b9f7-7b84ca152c9d.webp)
 
+the man on the cover of the album'vina landa'is in the picture, in the style of frenzied action painting, the new fauves, neoclassical sculptures, the san francisco renaissance., patriotic, joyful chaos, precise nautical detail --q 2 --s 250 --niji 5
+
+![](images/kcwwba_the_man_on_the_cover_of_the_albumvina_landais_in_the_pic_60a4ceb8-90d4-4738-860f-c18aef28186f.png)
+
 ## Links
 
 Logo: https://wgmimedia.com/midjourney-logo-prompts/
