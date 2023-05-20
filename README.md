@@ -40,6 +40,10 @@ the man on the cover of the album'vina landa'is in the picture, in the style of 
 
 ![](images/kcwwba_the_man_on_the_cover_of_the_albumvina_landais_in_the_pic_60a4ceb8-90d4-4738-860f-c18aef28186f.png)
 
+a small girl in the garden with birds, in the style of necronomicon illustrations, base prompt only, witchy academia, sketchfab, anime-inspired character designs, dark gray and light beige, traditional costumes --q 2 --s 250 --niji 5
+
+![](images/kcwwba_a_small_girl_in_the_garden_with_birds_in_the_style_of_ne_14fc5602-028a-426c-ad5a-042239dd0330.png)
+
 ## Links
 
 Logo: https://wgmimedia.com/midjourney-logo-prompts/
