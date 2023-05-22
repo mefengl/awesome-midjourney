@@ -44,6 +44,10 @@ a small girl in the garden with birds, in the style of necronomicon illustration
 
 ![](images/kcwwba_a_small_girl_in_the_garden_with_birds_in_the_style_of_ne_14fc5602-028a-426c-ad5a-042239dd0330.png)
 
+an illustration of a girl in a sitting room with cats, in the style of blue, whimsical floral scenes, timeless grace, children's book illustrations, outdoor art, bloomcore, murals and wall drawings --ar 85:113 --q 2 --niji 5
+
+![](images/kcwwba_an_illustration_of_a_girl_in_a_sitting_room_with_cats_in_04b1203f-daf5-4c5a-98e4-81fdd7e737cf.webp)
+
 ## Links
 
 Logo: https://wgmimedia.com/midjourney-logo-prompts/
