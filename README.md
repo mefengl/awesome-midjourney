@@ -1,5 +1,17 @@
 # awesome-midjourney
 
+## Links
+
+Logo: https://wgmimedia.com/midjourney-logo-prompts/
+
+Get ideas: 
+
+> https://bigsuricons.webflow.io
+> https://icoicon.com
+> https://icon.yukonga.top
+
+## Prompts
+
 the app icon featuring an image of a voice on the screen, in the style of qing dynasty, dark sky-blue and light white, storybook-esque, quadratura, minimalist graphic designer, tachisme, printed social commentary --ar 15:8
 
 ![](images/chazprogibator6_the_app_icon_featuring_an_image_of_a_voice_on_t_06765693-588f-49e7-aaec-865843dbafac.png)
@@ -47,13 +59,3 @@ a small girl in the garden with birds, in the style of necronomicon illustration
 an illustration of a girl in a sitting room with cats, in the style of blue, whimsical floral scenes, timeless grace, children's book illustrations, outdoor art, bloomcore, murals and wall drawings --ar 85:113 --q 2 --niji 5
 
 ![](images/kcwwba_an_illustration_of_a_girl_in_a_sitting_room_with_cats_in_04b1203f-daf5-4c5a-98e4-81fdd7e737cf.webp)
-
-## Links
-
-Logo: https://wgmimedia.com/midjourney-logo-prompts/
-
-Get ideas: 
-
-> https://bigsuricons.webflow.io
-> https://icoicon.com
-> https://icon.yukonga.top
