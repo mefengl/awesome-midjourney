@@ -51,3 +51,9 @@ an illustration of a girl in a sitting room with cats, in the style of blue, whi
 ## Links
 
 Logo: https://wgmimedia.com/midjourney-logo-prompts/
+
+Get ideas: 
+
+> https://bigsuricons.webflow.io
+> https://icoicon.com
+> https://icon.yukonga.top
